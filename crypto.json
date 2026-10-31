@@ -1,0 +1,4 @@
+{
+  "encryption_methods": ["base64", "base16", "base32"],
+  "enabled": true
+}
