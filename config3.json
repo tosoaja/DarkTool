@@ -1,0 +1,38 @@
+{
+  "base_url": "https://REPLACE-WITH-YOUR-SERVER/",
+  "endpoints": {
+    "auth_list": "auth_list",
+    "run": "run",
+    "stat_btns": "stat_btns",
+    "validate": "validate",
+    "auth_call": "auth_call"
+  },
+  "params": {
+    "app_version": "1.4",
+    "sdk_version": "33",
+    "os": "Android",
+    "os_version": "14",
+    "lang": "en",
+    "region": "ID",
+    "network_type": "wifi",
+    "roaming": "false",
+    "root": "false",
+    "attempt": "1",
+    "delay_between_calls_ms": 20000
+  },
+  "security": {
+    "block_vpn": false,
+    "block_proxy": false,
+    "is_emulator": false
+  },
+  "update": {
+    "enabled": false,
+    "title": "Update",
+    "message": "Versi baru tersedia.",
+    "button_positive": "Update",
+    "button_negative": "Nanti",
+    "url": ""
+  },
+  "keys": ["DT-TEST-0001", "DT-TEST-0002"],
+  "maintenance": false
+}
