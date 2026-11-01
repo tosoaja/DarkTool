@@ -33,6 +33,8 @@
     "button_negative": "Nanti",
     "url": ""
   },
-  "keys": ["rimuru", "DT-TEST-0002"],
+  "allowed_apk_id": "darksilent_v4",
+  "min_app_version": 1,
+  "keys": ["DT-TEST-0001", "DT-TEST-0002"],
   "maintenance": false
 }
