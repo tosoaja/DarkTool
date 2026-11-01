@@ -35,6 +35,6 @@
   },
   "allowed_apk_id": "darksilent_v4",
   "min_app_version": 1,
-  "keys": ["DT-TEST-0001", "DT-TEST-0002"],
+  "keys": ["rimuru", "rimuru2"],
   "maintenance": false
 }
